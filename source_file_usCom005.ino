@@ -1,7 +1,7 @@
 
 
 //========================================================================================//
-// --- Mapeamento de Hardware ---
+// ---- Mapeamento de Hardware ----
 #define  dig_uni    8                          //dígito das unidades
 #define  dig_dez    9                          //dígito das dezenas
 #define  dig_cen   17                          //dígito das centenas
